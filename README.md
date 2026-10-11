@@ -1,2 +1,2 @@
-# day-1-belajar-phyton
+# day-1-belajar-python
 hal tentang kelautan
